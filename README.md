@@ -1,6 +1,6 @@
-###install python 3.8
-###Django
-###XAMPP
+### install python 3.8
+### Django
+### XAMPP
 ---
 **download and install
 pathsetup(root,root/Scripts,root/Lib/site-packages)**
